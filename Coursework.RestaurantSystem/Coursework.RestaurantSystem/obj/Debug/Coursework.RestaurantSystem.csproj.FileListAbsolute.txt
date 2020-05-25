@@ -1,0 +1,38 @@
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe.config
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.pdb
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csprojResolveAssemblyReference.cache
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Form1.resources
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Properties.Resources.resources
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csproj.GenerateResource.Cache
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.exe
+D:\coursework\Coursework.RestaurantSystem\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.pdb
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe.config
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.exe
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.pdb
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.pdb
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csprojResolveAssemblyReference.cache
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Form1.resources
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Properties.Resources.resources
+D:\coursework\Coursework.RestaurantSystem - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csproj.GenerateResource.Cache
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe.config
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.pdb
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csprojResolveAssemblyReference.cache
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Form1.resources
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Properties.Resources.resources
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csproj.GenerateResource.Cache
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csproj.CoreCompileInputs.cache
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.exe
+D:\coursework\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.pdb
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe.config
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.exe
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\bin\Debug\Coursework.RestaurantSystem.pdb
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csprojAssemblyReference.cache
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Form1.resources
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.Properties.Resources.resources
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csproj.GenerateResource.cache
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.exe
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.pdb
+D:\college\AD Resturant System\Coursework.RestaurantSystem - Copy - Copy\Coursework.RestaurantSystem\obj\Debug\Coursework.RestaurantSystem.csproj.CoreCompileInputs.cache

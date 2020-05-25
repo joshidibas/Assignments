@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2352ddbf9164bf80fa31139048912a7b6f01174d.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_bf305be7be9203bace9bc317a967ef60392b718d.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_fd08585f70564ff5b13249aa45e4c676b00132ed.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_b61377ef29372e655f36da6cf5ea874f284880fe.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/debug_784378afdcca227fb91aab3442ff4d93ff2b38ca.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_c6fa9358758a8adb172f72b369ea081009d4e8c7.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b610c27de8fd0f1874b2e85faff91ddc07562656.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="app/build/intermediates/classes/debug"/>
+</classpath>

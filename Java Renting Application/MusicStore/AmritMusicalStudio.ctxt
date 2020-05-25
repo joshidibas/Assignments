@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ address\ instrument\ rate
+comment0.target=void\ addMusicStudio(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\ \r\n\ This\ method\ is\ used\ to\ add\ details\ in\ MusicStudio\ ArrayList.\r\n\ This\ method\ does\ not\ return\ any\ value.\ \r\n
+comment1.params=index
+comment1.target=void\ removingRentingInstruments(int)
+comment1.text=\r\n\ This\ method\ will\ remove\ any\ instrumen\ that\ has\ been\ entered\ in\ the\ listMusicStudio\ Arraylist.\r\n\ This\ method\ has\ one\ integer\ type\ arguement.\r\n\ This\ method\ does\ not\ return\ any\ value.\r\n\ This\ method\ also\ checks\ the\ index\ number\ input\ by\ the\ user.\r\n
+comment2.params=cN\ cA\ hD\ d\ dP\ index
+comment2.target=void\ bookinstrument(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment2.text=\r\n\ This\ method\ will\ book\ any\ of\ the\ Instrument\ that\ is\ available\ for\ booking\ in\ the\ listMusicStudio\ Arraylist.\r\n
+comment3.params=index
+comment3.target=void\ freeInstrument(int)
+comment3.text=This\ is\ a\ method\ for\ freeing\ a\ instrument\ from\ the\ list\ listMusicStuio.
+comment4.params=
+comment4.target=void\ listinginstrument()
+comment4.text=\r\n\ This\ method\ will\ check\ the\ available\ status\ of\ \ all\ the\ instrument\ stored\ in\ the\ MusicStudio\ Arraylist\ and\ it\ will\ display\ it's\ index\ number\ and\ the\ description\r\n\ of\ the\ company.\r\n
+comment5.params=dailyRate\ instrument
+comment5.target=void\ searchinstrument(double,\ java.lang.String)
+comment5.text=\r\n\ This\ method\ will\ check\ two\ parameters,\ Daily\ rate\ and\ name\ of\ the\ instrument.\ Then\ it\ will\ check\ all\ the\ object\ stored\ in\ the\ Arraylist.\r\n\ If\ both\ Daily\ rate\ and\ name\ of\ the\ instrument\ is\ found\ then\ it\ will\ display\ the\ details\ of\ the\ music\ studio.\r\n\ If\ the\ search\ criteria\ is\ invalid\ it\ will\ display\ an\ appropriate\ message.\r\n\ If\ the\ instruments\ are\ not\ available\ then\ it\ will\ display\ an\ appropriate\ message.\r\n
+numComments=6

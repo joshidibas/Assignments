@@ -1,0 +1,218 @@
+html {
+	width:100%;
+}
+#pageBg {
+	background-image:url(../images/bg-image.jpg);
+	background-size: cover;
+	background-attachment:fixed;
+}
+/*helps to keep the height of page to normal*/
+.extra {
+	min-height:100%;
+	height:auto ;
+	margin: 0 auto -365px;
+	position:relative;
+	overflow:hidden;
+}
+.logoSection {
+	width:100%;
+	height:200px;
+	padding:0px;
+	background-color: #000;
+}
+body {
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+	font-size:100%;
+	min-width:980px;
+}
+.main {
+	width:980px;
+	padding:0;
+	margin:0 auto;
+	font-size:0.875em;
+	line-height:1.7em;
+	position:relative;
+}
+a {
+	color:#ca4b00;
+	outline:none;
+	text-decoration:none;
+}
+
+.color-2 {
+	color: #000;
+	text-align:center;
+	width:800px;
+	text-align:justify;
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+	font-size:18px;
+}
+.col-3 {
+	text-align:center;
+	margin-top:-40px;
+	padding-top:0px;
+	padding-left:20px;
+	padding-right:20px;
+	margin:70px;	
+}
+.col-1 {
+	text-align:center;
+	margin-top:-40px;
+	padding-top:0px;
+	padding-left:50px;
+	padding-right:50px;
+	
+}
+.wrapper {
+	width:100%;
+	overflow:hidden;
+	position:relative;
+}
+p {
+	font-size:18px;
+	margin-bottom:18px;
+	text-align:justify;	
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+}
+.buttons a:hover {
+	cursor:pointer;
+}
+header {
+	width:100%;
+	position:relative;
+}
+h4 {
+	font-size:34px;
+	line-height:1.205em;
+	margin-bottom:3px;
+	text-align:center;
+	padding-left:100px;
+	color:#660000;
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+	size:auto;
+}
+h5{
+	font-size:30px;
+}
+h1 {
+	padding:0 0 0 250px;
+	}
+h1 a {
+	display: block;
+	position:relative;
+	bottom:6px;
+	text-indent:-999px;
+	background:url(../images/logo.png);width:470px;height:130px;
+}
+
+/***** navigation bar *****/
+.nav-row {
+	width:100%;
+	padding:0px;
+	border:1px solid #FFF;
+	background:url(../images/nav-row.gif) center top repeat-x #e6e6e6;
+}
+.nav {
+	width:100%;
+	height:30px;
+	overflow:hidden;
+	background:url(../images/menu-spacer.gif) left top no-repeat;
+}
+.nav li {
+	float:left;
+	list-style-type:none;
+	position:relative;
+	background:url(../images/menu-spacer.gif) right top no-repeat;
+}
+.nav li a {
+	display:block;
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+	font-size:21px;
+	list-style-type: none;
+	letter-spacing:-1px;
+	padding:5px 29px 4px 32px;
+	color:#000;
+}
+.nav > li:first-child > a {
+	margin-left:-40px;
+}
+.nav li.last a {
+	padding:5px 47px 4px 40px;
+}
+.nav li a.active, .nav li a:hover {
+	color:#ca4b00;
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+	size:landscape;
+}
+/*end of navigation bar*/
+
+.col-3 {
+	width:620px;
+	margin-right:40px;
+}
+#content {
+	width:100%;
+	height:100% auto;
+	padding:30px 0px 43px 0px;
+	background:url(../images/content-tail.png) left top repeat;
+	position: relative;
+	
+}
+footer {
+	width:100%;
+	height:105px;
+	background:url(../images/footer-tail.png) center top repeat;
+	position:relative;
+	overflow:hidden;
+	z-index:99;
+}
+footer .padding {
+	padding:27px 0;
+}
+.footer-text {
+	font-size:14px;
+	line-height:1.214em;
+	color: #FFF;
+	padding-left:40px;
+}
+.block {
+	height:105px auto;
+	padding-bottom:20px;
+}
+
+html, body {
+	height:100%;
+}
+/*footer nav*/
+
+.navig li {
+	float:left;
+	text-align:center;
+	list-style-type:none;
+	position:relative;
+	background:url(../images/menu-spacer.gif) right top no-repeat;
+	
+}
+.navig li a {
+	display:block;
+	font-family:"Andalus",Verdana,"Bitstream Vera Sans",Arial,sans-serif;
+	font-size:16px;
+	list-style-type: none;
+	letter-spacing:0px;
+	padding:5px 10px 4px 10px;
+	color: #FFF;
+	margin-top:-10px;
+	text-align:center;
+}
+.navig > li:first-child > a {
+	margin-left:0px;
+	padding:5px 10px 4px 10px;
+}
+.navig li.last a {
+	padding:5px 10px 4px 10px;
+}
+.navig li a.active, .navig li a:hover {
+	color:#ca4b00;
+	size:landscape;
+}
+/*end of footer navigation bar*/

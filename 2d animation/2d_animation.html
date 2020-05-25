@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>2D Animation</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css/style.css" type="text/css" >
+<link rel="shortcut icon" type="image/x-icon"href="images/logo heading.gif"/>
+<link href='http://fonts.googleapis.com/css?family=Adamina' rel='stylesheet' type='text/css'>
+</head>
+<body id="pageBg">
+<div class="extra">
+
+  <header>
+    <div class="logoSection">
+      <div class="main">
+        <div class="wrapper">
+          <h1><a href="index.html">2D Animation</a></h1>
+          <ul class="pagination">
+            <li><a href="images/bg-image.jpg"></a></li>
+                    </ul>
+      </div>
+    </div>
+    <nav>
+    <div class="nav-row">
+        <div class="main">
+            <ul class="nav">
+              <li><a href="index.html">Home</a></li>
+              <li><a class="active"href="2d_animation.html">2D Animation </a></li>
+              <li><a href="types_of_animation.html">Types Of Animation</a></li>
+              <li><a href="career_information.html">Career Information</a></li>
+              <li><a href="history.html">History</a></li>
+              <li class="last"><a href="about_us.html">About Us</a></li>
+            </ul>
+          </nav>
+        </div>
+    </div>
+  </header>
+    <!--==============================content================================-->
+   	 <div class="main">
+         <article>	
+		<script type="text/javascript">
+		var image1=new Image();
+		image1.src="images/1.jpg";
+						
+		var image2=new Image();
+		image2.src="images/2.jpg";
+						
+		var image3=new Image();
+		image3.src="images/3.jpg";
+						
+		var image4=new Image();
+		image4.src="images/4.jpg";
+						
+		var image5=new Image();
+		image5.src="images/5.jpg";
+						
+		var image6=new Image();
+		image6.src="images/6.jpg";
+
+		var step=1;
+	</script>
+    <div class="main">
+      <section id="content">
+        <h4 style="margin-top:-1px; margin-right:30px;"><strong>2D Animation</strong></h4><br>
+				<div style="background-color:none; width:200px; height:200px; float:right; margin-top:50px; margin-right:100px;">
+				<img src="images/1.jpg" name="slide" width="200px" height="200px">
+				</div>
+				
+				<script type="text/javascript">
+					function slideit()
+						{
+							document.images.slide.src=eval("image"+step+".src");
+							
+							if (step<6)
+							{
+								step++;
+							}
+							else
+							{
+								step=1;
+							}
+							setTimeout("slideit()",2000);
+						}
+
+					slideit();
+				</script>
+
+					<br><br>
+					<div style="width:550px; height:200px;margin-left:100px;">
+					
+					<p>
+					Animated motion, movies and commercials broadcasted 
+					worldwide are loved and enjoyed by everyone.
+					The animated effects mainly fall in the category of 2D animation.
+                    Though animation has gone up to a high peek, but 2D animation is an ancient and an 
+                    important aspect of animation. 2D animation is
+                    an hot topic and is popular among all. 
+					One may have heard about 2D 
+					animation but does s/he know what 2D animation is?
+					</p>
+					</div>
+					
+					<div style="background-color:none; width:800px; margin-left:90px;">
+					<p style="font-size:24px;">
+					<strong>What is 2D animaton?</strong>
+					
+					<ul>
+					<li><p class ="color-2"> 2D animation is the process of creating motion effect two-dimenstional artistic space</p></li>
+					<li><p class ="color-2"> in two dimensional space, an object can move forward, backwards, left and right</p></li>
+					</ul>
+					</p>
+					
+					<br>
+					<p style="font-size:24px;">
+					<strong>How it works?</strong>
+					</p>
+					
+					<ul>
+					<li><p class ="color-2"> series of pictures (frames) are played in a timeline or reel</p></li>
+						<ul type="square">
+							<li><p class ="color-2"> thousands of drawings are first drawn in plane paper</p></li>
+							<li><p class ="color-2">those papers are then animated by playing it or moving it in rapid succession</p></li>
+						</ul>
+                    <li><p class="color-2">it is animated in the time interval of 24 frames per second</p></li>
+					<li><p class ="color-2"> works in the accordance to the theory of persistence of vision</p></li>
+					</ul>
+					
+					<br>
+					<p style="font-size:24px;">
+					<strong>Persistence of vision</strong>
+					</p>
+					
+					<p class ="color-2">It is a theory that works on the supposition that an afterimage exists on the retina for one twenty-fifth
+										of a asecond before escaping the present consiousnedd, allowing frames to connect to one another thus creating
+										the perception of motion.
+					</p>					
+					</div>
+         </div> 
+     </div>			
+              </article>
+     
+      <div class="block"></div>
+   
+
+<!--==============================footer=================================-->
+<footer>
+  <div class="padding">
+    <div class="main">
+      <div class="wrapper">
+         <nav style="margin-left:150px; margin-top:-10px;">
+            <ul class ="navig">
+              <li><a href="index.html">Home</strong></a></li>
+              <li><a class="active"href="2d_animation.html">2D Animation </a></li>
+              <li><a href="types_of_animation.html">Types Of Animation</a></li>
+              <li><a href="career_information.html">Career Information</a></li>
+              <li><a href="history.html">History</a></li>
+              <li class="last"><a href="about_us.html">About Us</a></li>
+            </ul>
+          </nav><br>
+          <div class style="text-align:center; color:white;"=" footer-text"> Copyright &copy; <a href="#">Evolution of 2D Animation</a> All Rights Reserved
+        </div>
+      </div>
+    </div>
+</footer>
+</body>
+</html>
