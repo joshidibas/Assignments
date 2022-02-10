@@ -29,7 +29,7 @@
 		<spring.version>5.2.6.RELEASE</spring.version>
 		<jstl.version>1.2</jstl.version>
 		<servletapi.version>2.5</servletapi.version>
-		<hibernate.version>5.2.5.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<mysql-version>5.1.40</mysql-version>
               <apache-connection-pooling-version>1.4</apache-connection-pooling-version>
 
